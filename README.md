@@ -23,7 +23,7 @@ https://www.docker.com/products/docker-desktop/
 docker-compose up --build
 ```
 #### Альтернативный вариант
-##### Шаг 1. Необходимо пперейти в директорию проекта через консоль:
+##### Шаг 1. Необходимо перейти в директорию проекта через консоль:
 ```bash
 cd django_test_stripe
 ```
