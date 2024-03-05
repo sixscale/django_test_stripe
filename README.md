@@ -18,7 +18,7 @@ git clone https://github.com/sixscale/django_test_stripe
 https://www.docker.com/products/docker-desktop/
 ```
 #### Запуск проекта
-##### Необходимо прописать в корнсоли команду для Docker:
+##### Необходимо прописать в терминале команду для Docker:
 ```bash
 docker-compose up --build
 ```
